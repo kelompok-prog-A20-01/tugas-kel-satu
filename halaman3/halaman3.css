@@ -1,0 +1,231 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol,
+ul {
+    list-style: none;
+}
+blockquote,
+q {
+    quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: "";
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* css reset */
+
+body {
+    background-color: antiquewhite;
+    letter-spacing: 1px;
+    border-bottom: .8rem solid black;
+}
+
+.containerheader {
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+}
+
+.mainparagraph {
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.mainparagraph p {
+    padding-top: 1rem;
+}
+
+.containerpersen {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+.containerpersen div {
+    display: inline-block;
+}
+
+.containerpersen .persen1,
+.persen2,
+.persen3,
+.persen4 {
+    border-left: 2px solid black;
+    padding: 0 3rem;
+}
+
+.containerpersen p {
+    padding-top: 1rem;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: auto;
+    width: 90%;
+    height: 50rem;
+}
+
+.mainpartners {
+    margin-top: 7rem;
+    width: 100%;
+    height: 30rem;
+    background-color: white;
+    padding-top: 5rem;
+}
+
+.mainpartners h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.mainlatestblog {
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+}
+
+.mainlatestblog h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+.button {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.button input{
+    margin-top: 50rem;
+    background-color: black;
+    color: white;
+    width: 9rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+

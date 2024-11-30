@@ -1,0 +1,36 @@
+.imglatestblog3 .img3{
+    background-color: white;
+    width: 30rem;
+    height: 46rem;
+    position: absolute;
+    left: 67rem;
+}
+
+.imglatestblog3 .figure{
+    text-align: center;
+}
+
+.imglatestblog3 .figure img {
+    width: 25rem;
+    height: 30rem;
+    padding: 2rem 0;
+    border-radius: 100px;
+}
+
+.imglatestblog3 .img3 h1{
+    /* font-weight: bolder; */
+    font-size: 1.5rem;
+    margin-bottom: 1rem
+}
+
+.imglatestblog3 .img3 p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2.5rem;
+}
+
+.imglatestblog3 .img3 a {
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+}
