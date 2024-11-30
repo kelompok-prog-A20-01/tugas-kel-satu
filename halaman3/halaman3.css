@@ -205,6 +205,15 @@ body {
     font-size: 2.5rem;
 }
 
+/* button {
+    margin-top: 50rem;
+    background-color: black;
+    height: 4rem;
+    width: 9rem;
+    font-size: 1.2rem;
+    border-radius: 50px;
+} */
+
 .button {
     text-align: center;
     margin-top: 10rem;
