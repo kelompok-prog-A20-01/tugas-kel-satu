@@ -1,0 +1,50 @@
+.mainpartners .img .partner1, .partner2, .partner3, .partner4, .partner5 {
+    display: inline-block;
+    position:absolute;
+}
+
+.mainpartners .img {
+    position: relative;
+    top: -6rem;
+    left: 18rem;
+}
+
+.mainpartners .img img {
+    width: 8rem;
+    height: 8rem;
+    margin-top: .7rem;
+    margin-bottom: .5rem;
+}
+
+.mainpartners .img .partner1 {
+    top: 15rem;
+    left: 3rem;
+}
+
+.mainpartners .img .partner2 {
+    top: 15rem;
+    left: 15rem;
+}
+
+.mainpartners .img .partner3 {
+    top: 15rem;
+    left: 27rem;
+}
+
+.mainpartners .img .partner4 {
+    top: 15rem;
+    left: 39rem;
+}
+
+.mainpartners .img .partner5 {
+    top: 15rem;
+    left: 51rem;
+}
+
+.mainpartners .img .partner1, .partner2, .partner3, .partner4, .partner5 p{ 
+    text-align: center;
+}
+
+
+
+
