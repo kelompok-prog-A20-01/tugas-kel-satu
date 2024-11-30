@@ -1,0 +1,85 @@
+body{
+    background: teal;
+}
+.gred{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 80px;
+    align-items: center;
+    grid-gap: 20px;
+}
+img{
+    object-fit: cover;
+}
+.grid > article{
+    box-shadow: 10px 5px 5px 0px black;
+    border-radius: 30px;
+    text-align: center;
+    background: whitesmoke;
+    width: 300px;
+    transition: transfrom;
+}
+.grid > article img{ 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    /**width: 100%;**/
+}
+/**.koten{
+    /**text-transform: uppercase;**/
+    /**cursor: progress;
+}**/
+.grid > article:hover{
+    /**transform: rotate(15deg);
+    /**transform: scale(0,5); /**zoom out**/
+    transform: (1,2);
+    /**transform: translate(50px); /**geser**/
+}
+
+.container .grid .satu {
+    left: 20rem;
+}
+
+.container .grid .dua {
+    left: 50rem;
+}
+
+.container .grid .tiga {
+    left: 80rem;
+}
+
+.container .grid article {
+    position: absolute;
+    top: 20rem;
+}
+
+.container .button {
+    text-align: center;
+    margin-top: 40rem;
+}
+
+.container .button input {
+    color: white;
+    background-color: black;
+    height: 3rem;
+    width: 9rem;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    box-sizing: border-box;
+}
+
+.container .grid h1 {
+    text-align: center;
+    margin-top: 6rem;
+    font-size: 5rem;
+}
+
+@media (max-width:1000px){
+.grid{
+    grid-template-columns: repeat(2,1fr);
+}
+}
+@media (max-width:500px){
+.grid{
+    grid-template-columns: repeat(1,1fr);
+}
+}
