@@ -1,0 +1,99 @@
+.mainpertama h1 {
+  text-align: center;
+  margin-top: 3rem;
+  letter-spacing: .2rem;
+} 
+
+.mainpertama .satu, .dua {
+  text-align: center;
+}
+
+.mainpertama .satu {
+  margin-top: 4rem;
+  margin-bottom: .5rem;
+}
+
+.img {
+  width: 45rem;
+  margin-top: 8rem;
+  margin-left: 9rem;
+  float: left;
+}
+
+.img img {
+  border-radius: 45px;
+}
+
+.img .satu {
+  height: 25rem;
+  width: 20rem;
+}
+
+.img .dua {
+  height: 20rem;
+  width: 20rem;
+  margin-left: 2rem;
+}
+
+.img .tiga {
+  width: 28rem;
+  height: 16rem;
+  margin-top: 2rem;
+  margin-left: 6rem;
+}
+
+.content {
+  margin-left: 0rem;
+  margin-right: 7rem;
+  margin-top: 20rem;
+  font-size: 1rem;
+  word-spacing: .5rem;
+  letter-spacing: .1rem;
+}
+
+.content {
+  margin-left: 57rem;
+  width: 50rem;
+  position: relative;
+}
+
+.content .two, .three, .four {
+  margin-top: 3rem;
+  padding-left: 7rem;
+}
+
+.content .one, .one1, .two1, .three1, .four1 {
+  padding-left: 7rem;
+}
+
+.buttonhal2 {
+  margin-top: 2rem;
+  margin-left: 5rem;
+  width: 150px;
+  height: 50px;
+  background-color: black;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  padding-top: .9rem;
+  box-sizing: border-box;
+  margin-left: 15rem;
+  margin-top: 4rem;
+}
+
+.buttonhal2 a {
+  color: white;
+  text-decoration: none;
+  margin-left: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+

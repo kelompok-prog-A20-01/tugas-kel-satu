@@ -128,7 +128,6 @@ table {
 body {
     background-color: antiquewhite;
     letter-spacing: 1px;
-    border-bottom: .8rem solid black;
 }
 
 .containerheader {
@@ -157,7 +156,11 @@ body {
     display: inline-block;
 }
 
-.containerpersen .persen1,
+.containerpersen .persen1 {
+    padding: 0 3rem;
+}
+
+.containerpersen 
 .persen2,
 .persen3,
 .persen4 {
